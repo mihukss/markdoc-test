@@ -27,8 +27,7 @@ Covered here:
 *   [Removing employee access from an account](#5)
 *   [Who can grant employee access to an account](#7)
 
-Account access
---------------
+## Account access
 
 At least one team member should have access to all accounts. When they do, they can view and edit any client’s info, upload documents and create invoices. They also receive notifications about all account activity.
 
@@ -50,8 +49,7 @@ By default, once an employee has client account access, they can do all these:
 
 To get a sense of what an employee can do, visit a [read-only view of their portal](https://help.taxdome.com/article/221-access-the-read-only-view-of-client-account).
 
-Default account access
-----------------------
+## Default account access
 
 A firm owner has default account access. However, a firm owner or admin may also want to give one or several team members automatic access to all new accounts created [manually](https://help.taxdome.com/article/100-adding-accounts) or to clients who [register on their own](https://help.taxdome.com/article/235-the-portal-sign-up-link-how-to-customize-remove-and-use-it).
 
@@ -61,8 +59,7 @@ Go to **Settings**, then open the **Firm Settings** tab. Find the **Default Acco
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5be60d8f04286304a71c1d53/images/606591d18af76a714bfd2f22/file-rA2wbMbzRa.gif)
 
-Giving an employee access to one account
-----------------------------------------
+## Giving an employee access to one account
 
 There are several ways to go about giving an employee account access:
 
@@ -88,7 +85,7 @@ To give an employee access to an existing account:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5be60d8f04286304a71c1d53/images/63cfa5be0c84eb32663324e6/file-DlX7ihnQLC.gif)
 
-Giving an employee access to multiple accounts
+## Giving an employee access to multiple accounts
 ----------------------------------------------
 
 _For more helpful how-to videos, visit [TaxDome Academy](https://academy.taxdome.com), our free online hub for  
@@ -108,8 +105,7 @@ To assign employees to lots of different accounts at one time:
 
 4\. Click **ASSIGN**.
 
-Giving an employee access to all accounts
------------------------------------------
+## Giving an employee access to all accounts
 
 To assign an employee to all accounts:
 
@@ -121,8 +117,7 @@ To assign an employee to all accounts:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5be60d8f04286304a71c1d53/images/62eb57dc26aa5532ebc0c02b/file-28VBC57aT5.png)
 
-Giving employees account access via pipeline automation
--------------------------------------------------------
+## Giving employees account access via pipeline automation
 
 _For more helpful how-to videos, visit [TaxDome Academy](https://academy.taxdome.com), our free online hub for  
 viewing and learning everything you need to know about TaxDome._
@@ -151,8 +146,7 @@ The automation can be configured in different ways:
 *   **Add Account Access** filled + **Remove Account Access** filled:  
     When a job enters this stage, employees listed in the **Add Account Access** field are assigned to the account, and ones listed in the **Remove Account Access** are unassigned.
 
-Requesting/Granting Access for the Account
-------------------------------------------
+## Requesting/Granting Access for the Account
 
 If a firm employee without access to the client account clicks on any page within the client profile, they'll see a 401 error. This could happen:
 
@@ -169,8 +163,7 @@ Firm owner and employees with permission to [assign teammates](#7) will be notif
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5be60d8f04286304a71c1d53/images/63654eb2be6f3025a9d0d5e8/file-NaaMOeM6Zv.jpg)
 
-Viewing an employee’s accounts
-------------------------------
+## Viewing an employee’s accounts
 
 Filter your account list to see which client accounts are assigned to specific employees:
 
@@ -180,8 +173,7 @@ Filter your account list to see which client accounts are assigned to specific e
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5be60d8f04286304a71c1d53/images/62eb5b2926aa5532ebc0c033/file-A7s5EpD95H.gif)
 
-Viewing employee account stats
-------------------------------
+## Viewing employee account stats
 
 Firm owner and admins can view any employee’s stats for their assigned accounts. These stats can be found in the **Pending client activity** widget on the **Insights** page. 
 
@@ -205,8 +197,7 @@ You’ll see this info:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5be60d8f04286304a71c1d53/images/62eb5cec26aa5532ebc0c037/file-WCIJOqr5Vf.png)
 
-Removing employee access to an account
---------------------------------------
+## Removing employee access to an account
 
 Say you have a personal account in your firm and don't want other team members to see it. Or you have some changes in the roles and duties of your employees and don't want all of them to have access to all accounts.
 
@@ -236,8 +227,7 @@ You can also **remove an account from an employee’s list of assigned clients**
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5be60d8f04286304a71c1d53/images/62eb5f840675b1205fb92f7e/file-5zNNLbim1a.gif)
 
-Who can grant employee access to accounts
------------------------------------------
+## Who can grant employee access to accounts
 
 Firm owner and admins can always give employees access rights to accounts. They also can give employees the ability to assign clients to team members. If you’re a firm owner or admin and want someone else on the team to assign accounts, follow these steps:
 
