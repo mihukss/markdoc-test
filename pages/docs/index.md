@@ -6,6 +6,7 @@ title: Overview
 
 {% callout %}
 ![pro](https://taxdome-public.s3.amazonaws.com/images/notification/pro.png)
+
 This page is for TaxDome Pro users only. [Upgrade](https://help.taxdome.com/article/186-subscription-how-tos#12) at any time!
 {% /callout %}
 
