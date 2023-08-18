@@ -1,8 +1,12 @@
 ---
 title: Settings
+description: Quickly author amazing content with Markdoc syntax, a superset of Markdown.
+date: 2022-04-01
 ---
 
-# Settings
+# {% $markdoc.frontmatter.title %}
+
+## 2FA
 
 Two-factor authentication (2FA) adds an extra layer of security when accessing TaxDome. The additional step of authenticating your identity makes it much harder for an attacker to access your data, even if your credentials have become compromised. All TaxDome users can turn on 2FA, whether you’re a firm owner, team member, or [client](https://client-help.taxdome.com/article/60-two-factor-authentication-2fa). We recommend you do—we want everyone to be safe!
 
