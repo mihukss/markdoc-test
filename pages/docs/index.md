@@ -4,9 +4,12 @@ title: Overview
 
 # {% $markdoc.frontmatter.title %}
 
+{% callout %}
 ![pro](https://taxdome-public.s3.amazonaws.com/images/notification/pro.png)
-
 This page is for TaxDome Pro users only. [Upgrade](https://help.taxdome.com/article/186-subscription-how-tos#12) at any time!
+{% /callout %}
+
+
 
 _For more helpful how-to videos, visit [TaxDome Academy](https://academy.taxdome.com), our free online hub for  
 viewing and learning everything you need to know about TaxDome._
