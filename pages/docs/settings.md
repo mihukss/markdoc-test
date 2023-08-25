@@ -22,7 +22,7 @@ Covered here:
 
 ## Enabling Two-Factor Authentication
 
-Once you enable two-factor authentication, you’ll need to have your smartphone handy whenever you log on to your TaxDome account. When you do, you’ll be confirming your identity by typing in the code provided on your mobile device.
+Once two-factor authentication is activated, ensure you have your smartphone nearby every time you access your TaxDome account. By doing so, you'll validate your identity by entering the code displayed on your mobile device.
 
 To turn on two-factor authentication to add an extra level of security, follow these steps:
 
@@ -44,7 +44,7 @@ To turn on two-factor authentication to add an extra level of security, follow t
 
 ![tip](https://taxdome-public.s3.amazonaws.com/images/notification/note.png)
 
-Note! If you enable 2FA, you will have to generate a code from your phone whenever you log in. If you lose access to your smartphone, it will take some time to access your account without it, so having a secondary device for 2FA is a good backup plan. We recommend the [Authy](https://authy.com/) application because it allows you to include a backup secondary phone number. When you install Authy on your primary mobile device, you can add the number of the additional trusted device. Read the detailed instructions [here](https://authy.com/blog/multi-device/).
+Note! If you lose access to your smartphone, it will take some time to access your account without it, so having a secondary device for 2FA is a good backup plan. We recommend the [Authy](https://authy.com/) application because it allows you to include a backup secondary phone number. When you install Authy on your primary mobile device, you can add the number of the additional trusted device. Read the detailed instructions [here](https://authy.com/blog/multi-device/).
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5be60d8f04286304a71c1d53/images/61b74b32a5e184696a17a3a8/file-oDjK7Mpapl.png)
 
