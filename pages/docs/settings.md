@@ -24,7 +24,7 @@ Covered here:
 
 Once two-factor authentication is activated, ensure you have your smartphone nearby every time you access your TaxDome account. By doing so, you'll validate your identity by entering the code displayed on your mobile device.
 
-To turn off two-factor authentication to add an extra level of security, follow these steps:
+To turn on two-factor authentication to add an extra level of security, follow these steps:
 
 1\. Go to **Settings**, toggle on **Two-factor authentication** toggle, enter your TaxDome account password, then click **Submit**.
 
