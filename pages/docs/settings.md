@@ -30,8 +30,6 @@ To turn on two-factor authentication to add an extra level of security, follow t
 
 ![](/media/template_signature6.gif)
 
-![](https://s3.amazonaws.com/helpscout.net/docs/assets/5be60d8f04286304a71c1d53/images/628f4d0dc01fce37d9b16c75/file-QARkM1CzuP.png)
-
 2\. You’ll be presented with a list of applications that can be used for two-factor authentication. Install the Authy application (or Google Authenticator, Microsoft Authenticator, etc.) on your phone, then tap **Scan a QR** **code**.
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5be60d8f04286304a71c1d53/images/61b74ac851b4c5379899fa26/file-AYmb5bvMoh.png)
