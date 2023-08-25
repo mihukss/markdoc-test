@@ -6,7 +6,7 @@ const items = [
   {
     title: 'Get started',
     links: [{href: '/docs', children: 'Overview'},
-            {href: '/docs', children: 'Overview'}
+            {href: '/docs/settings', children: 'Settings'}
   ],
   },
 ];
