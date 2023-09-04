@@ -6,6 +6,12 @@ date: 2022-04-01
 
 TaxDome Academy is a free [learning hub](https://taxdome.com/education) that provides you with the tools to create your ideal workflow and improve your productivity.
 
+{% callout %}
+![pro](https://taxdome-public.s3.amazonaws.com/images/notification/pro.png)
+
+This page is for TaxDome Pro users only. [Upgrade](https://help.taxdome.com/article/186-subscription-how-tos#12) at any time!
+{% /callout %}
+
 What you’ll learn here:
 
 *   [How TaxDome Academy Can Help You](#1)
@@ -32,7 +38,7 @@ Courses at TaxDome Academy consist of lessons with graphics, videos and fun quiz
 
 ## How to Sign In to TaxDome Academy
 
-First, log in to your TaxDome portal, then follow these steps:
+First, log in to your **TaxDome** portal, then *follow* these steps:
 
 1\. Click the TaxDome Academy banner at the bottom of the sidebar of your TaxDome portal (after your first month with TaxDome, the banner is blue) OR
 
