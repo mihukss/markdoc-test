@@ -9,7 +9,7 @@ TaxDome Academy is a free [learning hub](https://taxdome.com/education) that pro
 {% callout %}
 ![pro](https://taxdome-public.s3.amazonaws.com/images/notification/pro.png)
 
-This page is for TaxDome Pro users only. [Upgrade](https://help.taxdome.com/article/186-subscription-how-tos#12) at any time!
+This article is for TaxDome Pro users only. [Upgrade](https://help.taxdome.com/article/186-subscription-how-tos#12) at any time!
 {% /callout %}
 
 What you’ll learn here:

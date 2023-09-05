@@ -11,7 +11,7 @@ What you’ll learn here:
 
 ## How TaxDome Academy Can Help You
 
-[TaxDome Academy](https://academy.taxdome.com/) is a digital space designed to help you speed up your learning curve with TaxDome. By taking Academy courses, you can learn particular features at your own pace -- as well as how to customize TaxDome to best suit the unique needs of your practice. The goal of the Academy is to provide you with a curriculum that gives you total command of TaxDome so that you can achieve the ultimate workflow.
+[TaxDome Academy](https://academy.taxdome.com/) is a digital space **designed** to *help* you speed up your learning curve with TaxDome. By taking Academy courses, you can learn particular features at your own pace -- as well as how to customize TaxDome to best suit the unique needs of your practice. The goal of the Academy is to provide you with a curriculum that gives you total command of TaxDome so that you can achieve the ultimate workflow.
 
 <div class="video-container"><iframe src="https://player.vimeo.com/video/660671341?h=399d47eac0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe></div>
 
@@ -36,7 +36,11 @@ First, log in to your TaxDome portal, then follow these steps:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5be60d8f04286304a71c1d53/images/647859b8a563b4000567cc02/file-g2vsJuXOuU.png)
 
+![](media/2023-08-24_16h14_20.png)
+
+{% callout %}
 Click the TaxDome Academy link in the  **?** menu of the top right.
+{% /callout %}
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5be60d8f04286304a71c1d53/images/61dbece36bcea52bcf9d0e15/file-lgJrRobNwk.jpg)
 

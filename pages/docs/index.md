@@ -15,7 +15,7 @@ This page is for TaxDome Pro users only. [Upgrade](https://help.taxdome.com/arti
 _For more helpful how-to videos, visit [TaxDome Academy](https://academy.taxdome.com), our free online hub for  
 viewing and learning everything you need to know about TaxDome._
 
-There are three different ways to grant employees access to accounts. You can grant them default access to all accounts, assign them to only selected accounts, or assign them to accounts at specific job stages by using our pipeline automations.
+There are four different ways to grant employees access to accounts. You can grant them default access to all accounts, assign them to only selected accounts, or assign them to accounts at specific job stages by using our pipeline automations.
 
 Covered here:
 
