@@ -14,7 +14,8 @@ const items = [
     title: 'Get started',
     links: [{href: '/docs', children: 'Overview'},
             {href: '/docs/settings', children: 'Settings'},
-            {href: '/docs/article', children: 'Article'}
+            {href: '/docs/article', children: 'Article'},
+            {href: '/docs/how-to-take-taxdome-academy-courses', children: 'How to Take TaxDome Academy Courses'}
   ],
   },
 ];
